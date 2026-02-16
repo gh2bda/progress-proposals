@@ -1,0 +1,8 @@
+:PEP: 2
+:Title: Another Integration Test PEP
+:Author: Progress Bot
+:Status: Draft
+:Type: Standards Track
+:Created: 2025-01-01
+
+Another proposal.
